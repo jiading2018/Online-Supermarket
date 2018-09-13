@@ -1,0 +1,48 @@
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.deps.json
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.json
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.dev.json
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.dll
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.pdb
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csprojResolveAssemblyReference.cache
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csproj.CoreCompileInputs.cache
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfoInputs.cache
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfo.cs
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.dll
+E:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.pdb
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.deps.json
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.json
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.dev.json
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.dll
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.pdb
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csprojResolveAssemblyReference.cache
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csproj.CoreCompileInputs.cache
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfoInputs.cache
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfo.cs
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.dll
+G:/ETSU/CSCI 3110 Adv Web/Project02/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.pdb
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.dll
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.deps.json
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.json
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.dev.json
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csprojResolveAssemblyReference.cache
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csproj.CoreCompileInputs.cache
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfoInputs.cache
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfo.cs
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.dll
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.pdb
+C:/Users/student/Desktop/3110_Project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.pdb
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.deps.json
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.json
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.runtimeconfig.dev.json
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.dll
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/bin/Debug/netcoreapp2.0/Project2.pdb
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csprojResolveAssemblyReference.cache
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.csproj.CoreCompileInputs.cache
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfoInputs.cache
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.AssemblyInfo.cs
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.dll
+/Users/jia/Documents/2018spring/CSCI3110/projects/project2/Project2/Project2/obj/Debug/netcoreapp2.0/Project2.pdb

@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Project2.Models.Entities.CartItems>
+
+@{
+    ViewData["Title"] = "Index";
+    decimal totalPrice = 0;
+    int totalQuantity = 0;
+}
+
+<h2>Shopping Cart</h2>
+
+<a asp-action="Empty" asp-controller="ShoppingCart" class="btn btn-sm btn-warning">Empty Shopping Cart</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type)
+                </td>
+                <td>
+                    @item.Price.ToString("C")
+                    @{
+                        totalPrice += @item.Price * @item.Quantity;
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                    @{
+                        totalQuantity += @item.Quantity;
+                    }
+                </td>
+                <td>
+                    <a asp-action="Remove" asp-controller="ShoppingCart" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Remove</a>
+                    @*@Html.ActionLink("Remove", "Remove", new { id=item.Id })*@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br/>
+<br/>
+<table class="table" style="width:300px">
+    <thead>
+        <tr>
+            <th>
+                Total Price
+            </th>
+            <th>
+                Total Quantity
+            </th>
+        </tr>
+
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @totalPrice.ToString("C")
+            </td>
+            <td>
+                @totalQuantity
+            </td>
+        </tr>
+    </tbody>
+</table>
+<a asp-action="Checkout" asp-controller="ShoppingCart" class="btn btn-sm btn-primary">Check out</a> |
+<a asp-action="Index" asp-controller="Home" class="btn btn-sm btn-default">Back to Home</a>

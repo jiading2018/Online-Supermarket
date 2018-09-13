@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Project2.Models.Entities.Item>
+
+@{
+    ViewData["Title"] = "Index";
+    var itemQuery = Model.GroupBy(i => i.Type);
+}
+
+<h2>Shop Items</h2>
+<p>
+    <a asp-controller="ShoppingCart" asp-action="Index" class="btn btn-sm btn-primary">View Shopping Cart</a>
+    <br /><br />
+</p>
+@foreach (var itemGroup in itemQuery)
+{
+    int counter = 0;
+    <h2>@itemGroup.ElementAtOrDefault(counter).Type.ToString()</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th width="1000">Name</th>
+                <th width="1000">Price</th>
+                <th width="1000">Amount In Stock</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in itemGroup)
+            {
+                <tr>
+                    <td>
+                        @item.Name
+                    </td>
+                    <td>
+                        @item.Price.ToString("C")
+                    </td>
+                    <td>
+                        @item.AmountInStock
+                    </td>
+                    @if (item.AmountInStock > 0)
+                    {
+                        <td><a asp-controller="ShoppingCart" asp-action="BuyItem" asp-route-id=@item.Id class="btn btn-sm btn-primary">Buy</a></td>
+                    }
+                    else
+                    {
+                        <td><a asp-controller="ShoppingCart" asp-action="BuyItem" asp-route-id=@item.Id class="btn btn-sm btn-default" disabled>Buy</a></td>
+                    }
+                </tr>
+                counter++;
+            }
+        </tbody>
+    </table>
+}
